@@ -114,7 +114,7 @@ Tech: HTML, CSS, Vanilla JS, Node.js, Express, JWT, Three.js
 - Real-time particle animation
 - Nested comment system
 
-#### 🌍時⏰ [World Clock](https://world-clock-ybj.vercel.app/)
+#### 🌍⏰🌤️ [World Clock](https://world-clock-ybj.vercel.app/)
 
 A modern clock app with dynamic theming and weather.  
 Tech: React, Tailwind, OpenWeather API  
