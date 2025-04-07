@@ -20,9 +20,9 @@ I’m a highly adaptable Full Stack Developer with experience building scalable 
 ### 🌐 GitHub Stats
 
 <div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=YBJ0000&hide_border=true&show_icons=true&line_height=21&theme=neon" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=YBJ0000&hide_border=true&show_icons=true&line_height=21&theme=neon&cache_bust=1" />
   &nbsp;&nbsp;
-  <img height="140px" src="https://streak-stats.demolab.com/?user=YBJ0000&theme=neon&hide_border=true&cache_seconds=86400" />
+  <img height="140px" src="https://streak-stats.demolab.com/?user=YBJ0000&theme=neon&hide_border=true&cache_seconds=86400&cache_bust=1" />
 </div>
 
 
@@ -31,7 +31,7 @@ I’m a highly adaptable Full Stack Developer with experience building scalable 
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YBJ0000&theme=github-compact&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YBJ0000&theme=github-compact&area=true&hide_border=true" width="100%&cache_bust=1" />
 </div>
 
 ---
