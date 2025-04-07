@@ -17,15 +17,66 @@ I’m a highly adaptable Full Stack Developer with experience building scalable 
 
 ---
 
-### 💼 Work Experience
+### 🧠 Tech Stack
 
-**Backend / Machine Learning Engineer (Intern)**  
-Guangdong Southern Digital Media Technology Co., Ltd. (Jul 2022 – Sep 2022)  
-
-- Built a custom CMS with Laravel & MySQL.
-- Created a news classification algorithm using Python and Scikit-learn, improving accuracy by 20%.
-- Used Git for collaborative version control.
-- Collaborated in an Agile team and earned high praise from the lead engineer.
+<table>
+  <tr>
+    <!-- Frontend -->
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /><br />HTML5</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /><br />CSS3</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br />JavaScript</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br />React</td>
+    <td align="center" width="96"><img src="https://vitejs.dev/logo.svg" width="40" /><br />Vite</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /><br />Tailwind</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://axios-http.com/assets/logo.svg" width="40" /><br />Axios</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" /><br />Next.js</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /><br />TypeScript</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40" /><br />StyledComp.</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" width="40" /><br />Ant Design</td>
+  </tr>
+  <tr>
+    <!-- Backend -->
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /><br />Node.js</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /><br />Express.js</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" /><br />Prisma</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" /><br />MySQL</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /><br />PostgreSQL</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /><br />MongoDB</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /><br />PHP</td>
+    <td align="center" width="96"><img src="https://jwt.io/img/pic_logo.svg" width="40" /><br />JWT</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" /><br />Redis</td>
+  </tr>
+  <tr>
+    <!-- DevOps -->
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" /><br />Git</td>
+    <td align="center" width="96"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /><br />GitHub</td>
+    <td align="center" width="96"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" /><br />GitLab</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /><br />Docker</td>
+    <td align="center" width="96"><img src="https://sealos.io/favicon/apple-touch-icon.png" width="40" /><br />Sealos</td>
+    <td align="center" width="96"><img src="https://static-00.iconduck.com/assets.00/aws-ec2-icon-1696x2048-nhw31ife.png" width="40" /><br />AWS EC2</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" width="40" /><br />Render</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" /><br />Netlify</td>
+    <td align="center" width="96"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" /><br />Vercel</td>
+    <td align="center" width="96"><img src="https://neon.tech/favicon/favicon.png" width="40" /><br />Neon</td>
+  </tr>
+  <tr>
+    <!-- Tools -->
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" /><br />VS Code</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /><br />Linux</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br />Postman</td>
+    <td align="center" width="96"><img src="https://cdn.jim-nielsen.com/macos/512/figma-2021-05-05.png?rf=1024" width="40" /><br />Figma</td>
+    <td align="center" width="96"><img src="https://www.sanity.io/static/images/favicons/apple-icon-180x180.png" width="40" /><br />Sanity</td>
+    <td align="center" width="96"><img src="https://uploads.productlane.com/7254258eb34a7b4626b86f0fbd4c1ed6.png" width="40" /><br />Clerk</td>
+    <td align="center" width="96"><img src="https://resend.com/_next/image?url=%2Fstatic%2Fabout%2Ficon2.png&w=640&q=75" width="40" /><br />Resend</td>
+    <td align="center" width="96"><img src="https://eslint.org/favicon.ico" width="40" /><br />ESLint</td>
+  </tr>
+</table>
 
 ---
 
@@ -62,15 +113,6 @@ Mobile-friendly 3D model viewer using Three.js.
 
 - Convert images to 3D via Rodin
 - Zoom, drag, and rotate interactions
-
----
-
-### 🧠 Skills
-
-**Frontend:** HTML, CSS, JavaScript, React, Next.js, Vite, Tailwind, TypeScript, Styled Components  
-**Backend:** Node.js, Express, Laravel, Prisma, MySQL, PostgreSQL, MongoDB, Redis, JWT  
-**DevOps & Cloud:** Docker, GitHub Actions, Render, Netlify, Vercel, Neon, AWS EC2  
-**Tools:** VS Code, Postman, Sanity, Clerk, Resend, Trae, ESLint, Figma  
 
 ---
 
