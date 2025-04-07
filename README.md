@@ -106,7 +106,7 @@ I’m a highly adaptable Full Stack Developer with experience building scalable 
 
 ### 🔥 Featured Projects
 
-#### 🧵 [ThreadTalk](https://ybj-threadtalk.vercel.app/)
+#### ✨🗣️💬 [ThreadTalk](https://ybj-threadtalk.vercel.app/)
 
 An interactive forum with particle effects and full thread management.  
 Tech: HTML, CSS, Vanilla JS, Node.js, Express, JWT, Three.js  
@@ -114,7 +114,7 @@ Tech: HTML, CSS, Vanilla JS, Node.js, Express, JWT, Three.js
 - Real-time particle animation
 - Nested comment system
 
-#### 🌍 [World Clock](https://world-clock-ybj.vercel.app/)
+#### 🌍時⏰ [World Clock](https://world-clock-ybj.vercel.app/)
 
 A modern clock app with dynamic theming and weather.  
 Tech: React, Tailwind, OpenWeather API  
@@ -122,7 +122,7 @@ Tech: React, Tailwind, OpenWeather API
 - Theme switches automatically by local time
 - Real-time weather and multi-timezone support
 
-#### 🧑‍💼 [Portfolio & Blog](https://first-portfolio-topaz-chi.vercel.app/)
+#### 🧑‍💼📁📝 [Portfolio & Blog](https://first-portfolio-topaz-chi.vercel.app/)
 
 A full-featured personal portfolio and CMS blog.  
 Tech: Next.js, Sanity, Clerk, Resend, Upstash, Neon  
@@ -130,7 +130,7 @@ Tech: Next.js, Sanity, Clerk, Resend, Upstash, Neon
 - SSR with Next.js and real-time CMS previews
 - Auth via Clerk, newsletter via Resend, PostgreSQL on Neon
 
-#### 🐒 [3D Monkey Viewer](https://hungrymonkey.netlify.app/)
+#### 🎮🐵📷 [3D Monkey Viewer](https://hungrymonkey.netlify.app/)
 
 Mobile-friendly 3D model viewer using Three.js.  
 
