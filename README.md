@@ -17,6 +17,26 @@ I’m a highly adaptable Full Stack Developer with experience building scalable 
 
 ---
 
+### 🌐 GitHub Stats
+
+<div align="center">
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=YBJ0000&hide_border=true&show_icons=true&line_height=21&theme=neon" />
+  &nbsp;&nbsp;
+  <img height="140px" src="https://streak-stats.demolab.com/?user=YBJ0000&theme=neon&hide_border=true&cache_seconds=86400" />
+</div>
+
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YBJ0000&theme=github-compact&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+
 ### 🧠 Tech Stack
 
 <table>
@@ -129,26 +149,6 @@ Guangdong University of Finance (2019–2023)
 
 - [🛰️ Satellite Imagery Recognition with CNN + Transfer Learning](https://ieeexplore.ieee.org/document/10104491) – *Published in CAIBDA 2022*
 - Forest Carbon Sequestration Evaluation – *Accepted by ABCM 2022*
-
----
-
-### 🌐 GitHub Stats
-
-<div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=YBJ0000&hide_border=true&show_icons=true&line_height=21&theme=neon" />
-  &nbsp;&nbsp;
-  <img height="140px" src="https://streak-stats.demolab.com/?user=YBJ0000&theme=neon&hide_border=true&cache_seconds=86400" />
-</div>
-
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YBJ0000&theme=github-compact&area=true&hide_border=true" width="100%" />
-</div>
-
 
 ---
 
