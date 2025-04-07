@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bingjia Yang 👋</h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&color=00F7FF&width=500&center=true&vCenter=true&lines=Full+Stack+Developer+from+Sydney;React+%2B+Node+%2B+Next.js+Lover;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=00F7FF&width=500&center=true&vCenter=true&lines=Full+Stack+Developer+from+Sydney;React+%2B+Node+%2B+Next.js+Lover;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h2>
 
 
