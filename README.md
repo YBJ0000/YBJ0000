@@ -151,14 +151,6 @@ Guangdong University of Finance (2019–2023)
 </div>
 
 
-<details>
-<summary><b>🎯 3D Contribution Graph</b></summary>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YBJ0000/YBJ0000/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-</details>
-
-
 ---
 
 ### 🧍‍♂️ Fun Facts
