@@ -89,7 +89,6 @@ Tech: HTML, CSS, Vanilla JS, Node.js, Express, JWT, Three.js
 
 - Real-time particle animation
 - Nested comment system
-- Secure user authentication
 
 #### 🌍 [World Clock](https://world-clock-ybj.vercel.app/)
 
@@ -104,8 +103,8 @@ Tech: React, Tailwind, OpenWeather API
 A full-featured personal portfolio and CMS blog.  
 Tech: Next.js, Sanity, Clerk, Resend, Upstash, Neon  
 
-- SSR, SEO-friendly, and real-time CMS previews
-- Newsletter via Resend, auth via Clerk
+- SSR with Next.js and real-time CMS previews
+- Auth via Clerk, newsletter via Resend, PostgreSQL on Neon
 
 #### 🐒 [3D Monkey Viewer](https://hungrymonkey.netlify.app/)
 
