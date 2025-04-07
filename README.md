@@ -61,7 +61,7 @@ I’m a highly adaptable Full Stack Developer with experience building scalable 
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" width="40" /><br />Render</td>
-    <td align="center" width="96"><img src="[https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg](https://cmscritic.com/ms-content/uploads/2023/11/netlifty-icon.png?format=auto&width=256)" width="40" /><br />Netlify</td>
+    <td align="center" width="96"><img src="https://cmscritic.com/ms-content/uploads/2023/11/netlifty-icon.png?format=auto&width=256" width="40" /><br />Netlify</td>
     <td align="center" width="96"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" /><br />Vercel</td>
     <td align="center" width="96"><img src="https://neon.tech/favicon/favicon.png" width="40" /><br />Neon</td>
   </tr>
