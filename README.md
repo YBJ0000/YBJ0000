@@ -52,7 +52,7 @@ I’m a highly adaptable Full Stack Developer with experience building scalable 
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /><br />JavaScript</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /><br />React</td>
     <td align="center" width="96"><img src="https://vitejs.dev/logo.svg" width="40" /><br />Vite</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" /><br />Tailwind</td>
+    <td align="center" width="96"><img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="40" /><br />Tailwind CSS</td>
   </tr>
   <tr>
     <td align="center" width="96"><img src="https://axios-http.com/assets/logo.svg" width="40" /><br />Axios</td>
