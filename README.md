@@ -141,36 +141,4 @@ Mobile-friendly 3D model viewer using Three.js.
 
 ---
 
-### 🎓 Education
-
-**Master of Information Technology**  
-University of New South Wales (2024–2025)
-
-**Bachelor of Software Engineering**  
-Guangdong University of Finance (2019–2023)
-
----
-
-### 📚 Publications
-
-- [🛰️ Satellite Imagery Recognition with CNN + Transfer Learning](https://ieeexplore.ieee.org/document/10104491) – *Published in CAIBDA 2022*
-- Forest Carbon Sequestration Evaluation – *Accepted by ABCM 2022*
-
----
-
-### 🧍‍♂️ Fun Facts
-
-- 🎸 I love playing guitar and performing live  
-- 🏀 Former university basketball champion  
-- 🧪 I enjoy blending creativity with code to build delightful user experiences
-
----
-
-### 📬 Get In Touch
-
-- 📧 Email: yangbingjia1206@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/bingjia-yang](https://au.linkedin.com/in/bingjia-yang-63111b290)
-
----
-
 _Thanks for visiting my GitHub profile!_ 🚀
