@@ -84,7 +84,7 @@ Highly adaptable Full Stack Developer with DevOps proficiency, experienced in bu
     <td align="center" width="96"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /><br />GitHub</td>
     <td align="center" width="96"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" /><br />GitLab</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /><br />Docker</td>
-    <td align="center" width="96"><img src="https://static-00.iconduck.com/assets.00/aws-ec2-icon-1696x2048-nhw31ife.png" width="40" /><br />AWS EC2</td>
+    <td align="center" width="96"><img src="https://www.shareicon.net/data/2015/08/28/92257_copy_512x512.png" width="40" /><br />AWS EC2</td>
     <td align="center" width="96"><img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" width="40" /><br />Render</td>
     <td align="center" width="96"><img src="https://cmscritic.com/ms-content/uploads/2023/11/netlifty-icon.png?format=auto&width=256" width="40" /><br />Netlify</td>
     <td align="center" width="96"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" /><br />Vercel</td>
