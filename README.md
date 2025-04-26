@@ -65,7 +65,7 @@ Highly adaptable Full Stack Developer with DevOps proficiency, experienced in bu
   <tr>
     <!-- Backend -->
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /><br />Node.js</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /><br />Express.js</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/nolan/512/express-js.png" width="40" /><br />Express.js</td>
     <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" /><br />Prisma</td>
     <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="40" /><br />Swagger</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /><br />PHP</td>
