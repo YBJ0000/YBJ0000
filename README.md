@@ -56,25 +56,27 @@ Highly adaptable Full Stack Developer with DevOps proficiency, experienced in bu
     <td align="center" width="96"><img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" width="40" /><br />Tailwind CSS</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://axios-http.com/assets/logo.svg" width="40" /><br />Axios</td>
+    <td align="center" width="96"><img src="https://yt3.googleusercontent.com/ytc/AIdro_mEiSBOHT3zUGET-fXEAILCjadkWuffrvrqo9oSfcPO-ss=s900-c-k-c0x00ffffff-no-rj" width="40" /><br />Axios</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" /><br />Next.js</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /><br />TypeScript</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40" /><br />StyledComp.</td>
-    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/12101536?s=200&v=4" width="40" /><br />Ant Design</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40" /><br />Styled Comp.</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/MUTCD_D9-6.svg" width="40" /><br />A11y</td>
   </tr>
   <tr>
     <!-- Backend -->
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" /><br />Node.js</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" /><br />Express.js</td>
     <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" /><br />Prisma</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" /><br />MySQL</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /><br />PostgreSQL</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /><br />MongoDB</td>
+    <td align="center" width="96"><img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="40" /><br />Swagger</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /><br />PHP</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" /><br />Redis</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" /><br />Nginx</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" /><br />PHP</td>
-    <td align="center" width="96"><img src="https://jwt.io/img/pic_logo.svg" width="40" /><br />JWT</td>
-    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" /><br />Redis</td>
+    <!-- Database -->
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" /><br />MySQL</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" /><br />Postgres</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" /><br />MongoDB</td>
   </tr>
   <tr>
     <!-- DevOps -->
@@ -82,27 +84,43 @@ Highly adaptable Full Stack Developer with DevOps proficiency, experienced in bu
     <td align="center" width="96"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" /><br />GitHub</td>
     <td align="center" width="96"><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="40" /><br />GitLab</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" /><br />Docker</td>
-    <td align="center" width="96"><img src="https://sealos.io/favicon/apple-touch-icon.png" width="40" /><br />Sealos</td>
     <td align="center" width="96"><img src="https://static-00.iconduck.com/assets.00/aws-ec2-icon-1696x2048-nhw31ife.png" width="40" /><br />AWS EC2</td>
-  </tr>
-  <tr>
     <td align="center" width="96"><img src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" width="40" /><br />Render</td>
     <td align="center" width="96"><img src="https://cmscritic.com/ms-content/uploads/2023/11/netlifty-icon.png?format=auto&width=256" width="40" /><br />Netlify</td>
     <td align="center" width="96"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" /><br />Vercel</td>
     <td align="center" width="96"><img src="https://neon.tech/favicon/favicon.png" width="40" /><br />Neon</td>
   </tr>
   <tr>
-    <!-- Tools -->
+    <!-- Developer Tools -->
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" /><br />VS Code</td>
+    <td align="center" width="96"><img src="https://ph-files.imgix.net/c4d77076-9008-48e5-b10c-8a03297e3781.png?auto=format" width="40" /><br />Trae</td>
+    <td align="center" width="96"><img src="https://paulstamatiou.com/_next/image?url=%2Fgear%2Fcursor-app-icon.png&w=3840&q=75" width="40" /><br />Cursor</td>
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" /><br />npm</td>
+    <td align="center" width="96"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4JOMtRgMSMkF1NQncj0obZXGdvrvFSJw7Wg&s" width="40" /><br />pnpm</td>
     <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /><br />Linux</td>
-    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br />Postman</td>
-    <td align="center" width="96"><img src="https://cdn.jim-nielsen.com/macos/512/figma-2021-05-05.png?rf=1024" width="40" /><br />Figma</td>
+    <td align="center" width="96"><img src="https://cdn.jim-nielsen.com/macos/512/figma-2021-05-05.png" width="40" /><br />Figma</td>
     <td align="center" width="96"><img src="https://www.sanity.io/static/images/favicons/apple-icon-180x180.png" width="40" /><br />Sanity</td>
     <td align="center" width="96"><img src="https://uploads.productlane.com/7254258eb34a7b4626b86f0fbd4c1ed6.png" width="40" /><br />Clerk</td>
     <td align="center" width="96"><img src="https://resend.com/_next/image?url=%2Fstatic%2Fabout%2Ficon2.png&w=640&q=75" width="40" /><br />Resend</td>
+  </tr>
+  <tr>
+    <!-- Testing -->
     <td align="center" width="96"><img src="https://eslint.org/favicon.ico" width="40" /><br />ESLint</td>
+    <td align="center" width="96"><img src="https://vitest.dev/logo.svg" width="40" /><br />Vitest</td>
+    <td align="center" width="96"><img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" width="40" /><br />Cypress</td>
+    <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /><br />Postman</td>
+  </tr>
+  <tr>
+    <!-- Data & Machine Learning -->
+    <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /><br />Python</td>
+    <td align="center" width="96"><img src="https://e7.pngegg.com/pngimages/309/384/png-clipart-scikit-learn-python-computer-icons-scikit-machine-learning-learning-text-orange.png" width="40" /><br />Sklearn</td>
+    <td align="center" width="96"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" /><br />TensorFlow</td>
+    <td align="center" width="96"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" /><br />PyTorch</td>
+    <td align="center" width="96"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" /><br />Colab</td>
+    <td align="center" width="96"><img src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" width="40" /><br />Kaggle</td>
   </tr>
 </table>
+
 
 
 ---
