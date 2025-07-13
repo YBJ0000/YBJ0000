@@ -7,7 +7,7 @@
   <a href="mailto:yangbingjia1206@gmail.com">📧 yangbingjia1206@gmail.com</a> •
   <a href="https://github.com/YBJ0000" target="_blank">GitHub</a> •
   <a href="https://au.linkedin.com/in/bingjia-yang-63111b290" target="_blank">LinkedIn</a> •
-  <a href="https://first-portfolio-topaz-chi.vercel.app/" target="_blank">Portfolio</a>
+  <a href="https://ybj.au" target="_blank">Portfolio</a>
 </p>
 
 
