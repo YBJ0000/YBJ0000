@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About Me
 
-Highly adaptable Full Stack Developer with DevOps proficiency, experienced in building and deploying scalable web applications using React, Node.js, Next.js. Skilled in modern development workflows with Git, Docker and cloud platforms such as AWS EC2. Excellent problem-solving and communication skills, with experience working in cross-functional teams to deliver high-quality solutions.
+Versatile Full Stack Developer with DevOps proficiency, experienced in building and deploying scalable web applications using React, Node.js and Next.js. Skilled in modern development workflows with Docker, CI/CD pipelines, and cloud platforms such as AWS EC2. Delivered multiple demo apps and real-world systems with strong problem-solving and communication skills in cross-functional teams.
 
 
 ---
