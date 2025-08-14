@@ -93,3 +93,20 @@ Tech: Rodin, Three.js
 
 Mobile-friendly 3D model viewer using Three.js.  
 Tech: Sketchfab, Three.js
+
+---
+
+### 🔥 Capstone Project
+
+Automated Booking System for Museum of Human Disease (Private).
+
+Tech: 
+- Frontend: React, Material UI, FullCalendar
+- Backend: Node.js, Express.js
+- Database: PostgreSQL (Neon)
+- Container: Docker (required by uni)
+- ORM: Prisma (to simplify and record database operation)
+- Reverse Proxy: Nginx (to forward request)
+- Testing: Postman, Vitest, Jest, Chrome Devtools, ESlint
+- Email Service: Resend (to send verification code)
+- Charts Library: Recharts
