@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="../WX20250905-092914@2x.png" alt="Profile Image" width="100%" />
+</div>
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=480&height=35&lines=Hi%2C+I'm+Bingjia+Yang+%F0%9F%91%8B+;Full+Stack+Developer+from+Sydney;React+%2B+Node.js+%2B+Next.js+Lover" alt="Typing SVG" /></a>
 </h1>
