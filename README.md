@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../WX20250905-092914@2x.png" alt="Profile Image" width="100%" />
+  <img src="./WX20250905-092914@2x.png" alt="Profile Image" width="100%" />
 </div>
 
 <h1 align="center">
