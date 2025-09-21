@@ -28,42 +28,31 @@
 
 ---
 
-### 🔥 Personal Projects
+### Projects
 
+**[Personal Site](https://ybj.au/)**  
+Portfolio & CMS blog  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-000000?style=flat&logo=sanity&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat&logo=clerk&logoColor=white) 
 
-#### 🧑‍💼📁📝 [Personal Site (with Portfolio & Blog)](https://ybj.au/)
+**[Cloud-Native Blog](https://full-stack-mini-blog.vercel.app/)**  
+Dockerized backend with Redis caching, deployed on AWS  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
-A full-featured personal portfolio and CMS blog.  
-Tech: Next.js, Sanity, Clerk, Resend, Upstash, Neon, Better Stack, Vanta.js  
+**[ThreadTalk](https://ybj-threadtalk.vercel.app/)**  
+Reddit-like forum with 3D effects  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
+**[World Clock](https://world-clock-ybj.vercel.app/)**  
+Modern clock with weather  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-#### ☁️📝⚙️ [Cloud-Native Mini Blog](https://full-stack-mini-blog.vercel.app/)
+**[3D Monkey Viewer](https://hungrymonkey.netlify.app/)**  
+Mobile 3D model viewer  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
-A lightweight cloud-native blog with Dockerized backend, Redis caching, and CI/CD automation.   
-Tech: React, Node.js, Docker, AWS EC2, Nginx, Prisma, PostgreSQL (Neon), Redis, GitHub Actions
-
-
-#### ✨🗣️💬 [ThreadTalk](https://ybj-threadtalk.vercel.app/)
-
-An Reddit-like forum with 3D particle effects and thread management.  
-Tech: HTML, CSS, Vanilla JS, Node.js, Express.js, JWT, Three.js  
-
-
-#### 🌍⏰🌤️ [World Clock](https://world-clock-ybj.vercel.app/)
-
-A modern clock app with dynamic theming and weather.  
-Tech: React, Tailwind CSS, Axios, OpenWeather API  
-
-
-#### 🎮🐵📷 [3D Monkey Viewer](https://hungrymonkey.netlify.app/)
-
-Mobile-friendly 3D model viewer using Three.js.  
-Tech: Rodin, Three.js
-
-#### 🎮🎸📸 [3D Guitar Viewer](https://threejs-guitar-demo.vercel.app/)
-
-Mobile-friendly 3D model viewer using Three.js.  
-Tech: Sketchfab, Three.js
+**[3D Guitar Viewer](https://threejs-guitar-demo.vercel.app/)**  
+Mobile 3D model viewer  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
 
 ---
 
