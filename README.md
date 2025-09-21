@@ -2,17 +2,6 @@
   <img src="./linkedin-banner.png" alt="Profile Image" width="100%" />
 </div>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&center=true&vCenter=true&width=480&height=35&lines=Hi%2C+I'm+Bingjia+Yang+%F0%9F%91%8B+;Full+Stack+Developer+from+Sydney;React+%2B+Node.js+%2B+Next.js+Lover" alt="Typing SVG" /></a>
-</h1>
-
-
-<p align="center">
-  <a href="mailto:yangbingjia1206@gmail.com">📧 yangbingjia1206@gmail.com</a> •
-  <a href="https://au.linkedin.com/in/bingjia-yang-63111b290" target="_blank">LinkedIn</a> •
-  <a href="https://ybj.au" target="_blank">Portfolio</a>
-</p>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -24,13 +13,6 @@
   />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/YBJ0000/github-breakout/github-breakout/images/breakout-light.svg" />
 </picture>
-
----
-
-### 🧑‍💻 About Me
-
-Versatile Full Stack Developer with DevOps proficiency, experienced in building and deploying scalable web applications using React, Node.js and Next.js. Skilled in modern development workflows with Docker, CI/CD pipelines, and cloud platforms such as AWS EC2. Delivered multiple demo apps and real-world systems with strong problem-solving and communication skills in cross-functional teams.
-
 
 ---
 
@@ -55,19 +37,6 @@ Versatile Full Stack Developer with DevOps proficiency, experienced in building 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" />
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" />
 </p>
-
-
----
-
-
-### 🌐 GitHub Stats
-
-<div align="center">
-  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=YBJ0000&hide_border=true&show_icons=true&line_height=21&theme=neon" />
-  &nbsp;&nbsp;
-  <img height="140px" src="https://streak-stats.demolab.com/?user=YBJ0000&theme=neon&hide_border=true&cache_seconds=86400" />
-</div>
-
 
 ---
 
