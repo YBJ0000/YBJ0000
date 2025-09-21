@@ -56,7 +56,7 @@ Mobile 3D model viewer
 
 ---
 
-### 🔥 Capstone Project
+### Capstone Project
 
 **[Automated Booking System](https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w09b-donut)**  
 Full-stack CRM system for Museum of Human Disease with dual interfaces: user booking portal and comprehensive admin management system (Private)  
