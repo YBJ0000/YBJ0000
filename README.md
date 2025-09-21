@@ -58,15 +58,6 @@ Mobile 3D model viewer
 
 ### 🔥 Capstone Project
 
-Automated Booking System for Museum of Human Disease (Private).
-
-Tech: 
-- Frontend: React, Material UI, FullCalendar
-- Backend: Node.js, Express.js
-- Database: PostgreSQL (Neon)
-- Container: Docker (required by uni)
-- ORM: Prisma (to simplify and record database operation)
-- Reverse Proxy: Nginx (to forward request)
-- Testing: Postman, Vitest, Jest, Chrome Devtools, ESlint
-- Email Service: Resend (to send verification code)
-- Charts Library: Recharts
+**[Automated Booking System](https://github.com/unsw-cse-comp99-3900/capstone-project-25t2-9900-w09b-donut)**  
+Museum of Human Disease booking system (Private)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white) ![FullCalendar](https://img.shields.io/badge/FullCalendar-2E8B57?style=flat&logo=fullcalendar&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-000000?style=flat&logo=resend&logoColor=white) ![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=flat&logo=recharts&logoColor=white)
