@@ -1,5 +1,15 @@
 <div align="center">
-  <img src="./linkedin-banner.png" alt="Profile Image" width="100%" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./linkedin-banner.png"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./linkedin-banner-light.png"
+    />
+    <img alt="Profile Banner" src="./linkedin-banner-light.png" width="100%" />
+  </picture>
 </div>
 
 <picture>
