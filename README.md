@@ -36,7 +36,7 @@ Portfolio & CMS blog
 
 **[Cloud-Native Blog](https://full-stack-mini-blog.vercel.app/)**  
 Dockerized backend with Redis caching, deployed on AWS  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Actions](https://img.shields.io/badge/Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 **[ThreadTalk](https://ybj-threadtalk.vercel.app/)**  
 Reddit-like forum with 3D effects  
@@ -48,7 +48,7 @@ Modern clock with weather
 
 **[3D Monkey Viewer](https://hungrymonkey.netlify.app/)**  
 Mobile 3D model viewer  
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white) ![Rodin](https://img.shields.io/badge/Rodin-000000?style=flat&logo=hyper3d&logoColor=white)
 
 **[3D Guitar Viewer](https://threejs-guitar-demo.vercel.app/)**  
 Mobile 3D model viewer  
