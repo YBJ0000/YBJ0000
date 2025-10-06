@@ -28,7 +28,7 @@
 
 ---
 
-### Projects
+### Personal Projects
 
 **[Personal Site](https://ybj.au/)**  
 Portfolio & CMS blog  
