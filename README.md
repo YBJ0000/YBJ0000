@@ -28,6 +28,14 @@
 
 ---
 
+### Algorithm Practice & Notes
+
+**[LeetCode Solutions](https://github.com/YBJ0000/LeetCode)**  
+A growing collection of JavaScript solutions synced with LeetCode  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat&logo=leetcode&logoColor=orange) ![Data Structures](https://img.shields.io/badge/Data%20Structures-007ACC?style=flat&logo=codeforces&logoColor=white)
+
+---
+
 ### Personal Projects
 
 **[Personal Site](https://ybj.au/)**  
