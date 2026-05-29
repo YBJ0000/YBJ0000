@@ -2,13 +2,13 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./linkedin-banner.png"
+      srcset="./linkedin-banner.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./linkedin-banner-light.png"
+      srcset="./linkedin-banner-light.svg"
     />
-    <img alt="Profile Banner" src="./linkedin-banner-light.png" width="100%" />
+    <img alt="Profile Banner" src="./linkedin-banner-light.svg" width="100%" />
   </picture>
 </div>
 
