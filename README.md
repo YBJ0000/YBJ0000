@@ -16,12 +16,12 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YBJ0000/github-breakout/github-breakout/images/breakout-dark.svg"
+      srcset="https://raw.githubusercontent.com/YBJ0000/YBJ0000/output/bomberman-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YBJ0000/github-breakout/github-breakout/images/breakout-light.svg"
+      srcset="https://raw.githubusercontent.com/YBJ0000/YBJ0000/output/bomberman-contribution-graph.svg"
     />
-    <img alt="Breakout Game" src="https://raw.githubusercontent.com/YBJ0000/github-breakout/github-breakout/images/breakout-light.svg" />
+    <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/YBJ0000/YBJ0000/output/bomberman-contribution-graph.svg" />
   </picture>
 </div>
